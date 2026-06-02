@@ -5,13 +5,14 @@
 
 ## 🚀 ติดตั้ง (คลิกเดียว)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkimcodriver%2Fpa-portal-template&env=PORTAL_PASSWORD&envDescription=Set%20a%20password%20to%20open%20your%20portal&project-name=pa-portal&repository-name=pa-portal)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkimcodriver%2Fpa-portal-template&env=PORTAL_PASSWORD&envDescription=%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B1%E0%B8%A5%20%E2%80%94%20%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%20(%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B9%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B3%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2)&envLink=https%3A%2F%2Fgithub.com%2Fkimcodriver%2Fpa-portal-template%23-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B9%87%E0%B8%88&project-name=pa-portal&repository-name=pa-portal)
 
 **คลิกปุ่มด้านบนแล้วเกิดอะไรขึ้น:**
 1. Vercel สร้าง **repo ส่วนตัว (private)** ชื่อ `pa-portal` ในบัญชี **GitHub ของคุณ** (ก๊อประบบนี้ไปให้)
-2. ถามให้ตั้ง **`PORTAL_PASSWORD`** = รหัสผ่านที่เจ้านายใช้เปิดเว็บ
+2. มีช่องให้กรอก **`PORTAL_PASSWORD`** — นี่คือ **รหัสที่เจ้านายใช้เปิดเว็บ** พิมพ์รหัสที่อยากได้ลงไปเอง (ตั้งอะไรก็ได้ที่จำง่าย)
 3. **Deploy ขึ้น Vercel ของคุณ** → ได้ลิงก์เว็บพร้อมใช้ทันที 🎉
 
+> 🔑 **เรื่องรหัสผ่าน:** ระบบ **ไม่ได้ตั้งรหัสมาให้** — *คุณเป็นคนตั้งเอง* ในช่อง `PORTAL_PASSWORD` ตอนกด Deploy (เปลี่ยนทีหลังได้ที่ Vercel → Settings → Environment Variables)
 > ระบบเป็นของคุณเองทั้งหมด (repo + เว็บ + รหัส) — เจ้าของ template มองไม่เห็นเนื้อหาคุณ
 
 ---
