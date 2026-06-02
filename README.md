@@ -5,7 +5,7 @@
 
 ## 🚀 ติดตั้ง (คลิกเดียว)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkimcodriver%2Fpa-portal-template&env=PORTAL_PASSWORD&envDescription=ตั้งรหัสผ่านสำหรับเปิดพอร์ทัล&project-name=pa-portal&repository-name=pa-portal)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkimcodriver%2Fpa-portal-template&env=PORTAL_PASSWORD&envDescription=Set%20a%20password%20to%20open%20your%20portal&project-name=pa-portal&repository-name=pa-portal)
 
 **คลิกปุ่มด้านบนแล้วเกิดอะไรขึ้น:**
 1. Vercel สร้าง **repo ส่วนตัว (private)** ชื่อ `pa-portal` ในบัญชี **GitHub ของคุณ** (ก๊อประบบนี้ไปให้)
