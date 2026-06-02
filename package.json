@@ -1,0 +1,13 @@
+{
+  "name": "pa-portal-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PA Work Portal — template (engine only). Deploy to Vercel in one click.",
+  "scripts": {
+    "build": "node scripts/build-index.js",
+    "dev": "node scripts/build-index.js && echo '✓ เสร็จแล้ว — เปิดไฟล์ public/index.html ในเบราว์เซอร์'"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
